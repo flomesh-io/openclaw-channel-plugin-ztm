@@ -1,3 +1,5 @@
+**⚠️⚠️⚠️ This plugin has been archived and moved to [clawparty-ai/openclaw-channel-plugin-ztm](https://github.com/clawparty-ai/openclaw-channel-plugin-ztm) ⚠️⚠️⚠️**
+
 # ZTM Chat Channel Plugin for OpenClaw
 
 [![OpenClaw Plugin](https://img.shields.io/badge/OpenClaw-Plugin-orange)](https://openclaw.ai)
@@ -11,6 +13,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 This plugin integrates OpenClaw with ZTM (Zero Trust Mesh) Chat, enabling decentralized P2P messaging through the ZTM network.
+
 
 ## Architecture
 
